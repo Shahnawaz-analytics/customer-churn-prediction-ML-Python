@@ -136,4 +136,5 @@ customer-churn-prediction-ML-Python/
 
 **GitHub:** [Shahnawaz-analytics](https://github.com/Shahnawaz-analytics)
 
+**Linkedin:** [Shahnawaz-khan](https://www.linkedin.com/in/shahnawazkhan09/)
 
